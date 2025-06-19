@@ -1,0 +1,7 @@
+config/dev.yaml
+.vscode/
+.zed/
+data/
+config.yaml
+config/config.yaml
+certs/
